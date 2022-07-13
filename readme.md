@@ -1,3 +1,4 @@
+基于uni-table修改 增加了最最常用的固定表头的功能
 github地址:[https://github.com/1205093639/uni-table-Fixed_header](https://github.com/1205093639/uni-table-Fixed_header)
 
 csdn博客地址:[https://blog.csdn.net/weixin_45391874/article/details/125725971?spm=1001.2014.3001.5502)
